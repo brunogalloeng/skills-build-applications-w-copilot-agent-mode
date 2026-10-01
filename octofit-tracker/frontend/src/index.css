@@ -1,0 +1,12 @@
+body {
+  background-color: #f5f7fb;
+}
+
+.navbar-brand img {
+  height: 36px;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
